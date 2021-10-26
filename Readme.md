@@ -10,3 +10,10 @@
 ## Dependencies:
 - Install Android Studio 
 - Install Java
+
+
+## How to Run?
+- Clone the repo (git clone <repo link here>)
+- Open Android Studio and click Build Icon
+- Run application 
+- User auth only mainly requires usernames and not passwords
